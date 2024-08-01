@@ -1,2 +1,2 @@
 # My-Work-Samples
-Power BI Dashboards and SQL | Data Analysis | Visualization | ETL 
+Power BI Dashboards and SQL | ETL | Data Analysis | Visualization | Deriving Insights and Strategic Solutions
