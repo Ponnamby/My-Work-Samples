@@ -24,4 +24,4 @@ Insights and Observations »
 🔹Sales Trend: Both actual and target sales experienced a decline between January and February 2023 but have shown an increasing trend since then.
 🔹Target Achievement: The team met sales targets for only 2 out of 14 months.
 
-** Sample Work Dashboards are available upon request, able to screen share work using a pro licensed Power BI software when needed. **
+~ **Sample Work Dashboards are available upon request and able to screen share work using a pro-licensed Power BI software when needed.** ~
