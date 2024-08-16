@@ -1,5 +1,5 @@
 ## My-Work-Samples
-Microsoft Power BI | Dashboards | SQL | ETL | Python | Microsoft Azure | Excel VBA Macros | Alteryx | Data Modeling | Data Analysis | Visualization | Deriving Insights | Strategic Solutions | Forecasting | Process Optimization | Data Modeling | Microsoft Suite | Stakeholder Communication | Effective KPI metrics | Hypothesis Testing
+Microsoft Power BI | Dashboards | SQL | ETL | Python | Microsoft Azure | Excel VBA Macros | Alteryx | Data Modeling | Data Analysis | Visualization | Deriving Insights | Strategic Solutions | Forecasting | Process Optimization | Automation | Data Modeling | Microsoft Suite | Stakeholder Communication | Effective KPI metrics | Hypothesis Testing | Regression Techniques
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 **<< SUMMARY OF PROJECTS >>**
@@ -30,3 +30,12 @@ In this project, I leveraged Excel for data cleaning and modelling to prepare a 
 TOOLS AND SKILLS EMPLOYED >>
 # Tools: Microsoft Excel, VLOOKUP in Excel, Power BI Pro
 # Skills: Data Cleaning and Preparation, Data Modeling, Data Visualization, Analytical Thinking, Storytelling with Data
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+## 4. Predictive Modelling and Decision Making - Capstone Project >>
+ [University of Windsor, ON, Canada ]
+※	Led a predictive modelling and decision-making project using Python for data exploration, transformation, pattern recognition and forecasting with Jupyter Notebook and Google Co-Lab.
+※	Implemented regression techniques and machine learning algorithms using Pandas, NumPy, Scikit-Learn, and Matplotlib.
+TOOLS AND SKILLS EMPLOYED >>
+# Tools: Python, Jupyter Notebook, Google Co-Lab, Pandas, NumPy, Scikit-Learn, Matplotlib
+# Skills: Predictive Modeling, Data Exploration and Transformation, Pattern Recognition, Forecasting, Regression Techniques, Machine Learning Algorithms, Automation and Process Optimization
