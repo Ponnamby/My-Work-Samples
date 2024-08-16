@@ -1,9 +1,8 @@
 ## My-Work-Samples
-Microsoft Power BI | Dashboards | SQL | ETL | Python | Microsoft Azure | Excel VBA Macros | Alteryx |  | Data Analysis | Visualization | Deriving Insights | Strategic Solutions | Forecasting | Process Optimization | Data Modeling | Microsoft Suite | Stakeholder Communication | Effective KPI metrics | Hypothesis Testing
+Microsoft Power BI | Dashboards | SQL | ETL | Python | Microsoft Azure | Excel VBA Macros | Alteryx | Data Modeling | Data Analysis | Visualization | Deriving Insights | Strategic Solutions | Forecasting | Process Optimization | Data Modeling | Microsoft Suite | Stakeholder Communication | Effective KPI metrics | Hypothesis Testing
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-
-## **<< SUMMARY OF PROJECTS >>**
+**<< SUMMARY OF PROJECTS >>**
 ⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕
 
 ## **1. Financial KPI Dashboard >>**
