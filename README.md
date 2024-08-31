@@ -5,7 +5,7 @@ Microsoft Power BI | Dashboards | SQL | ETL | Python | Microsoft Azure | Excel V
 ## **<< SUMMARY OF PROJECTS >>**
 ⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕
 
-## **1. Finance & Sales KPI Dashboard >>**
+## **[1. Finance & Sales KPI Dashboard](https://github.com/Ponnamby/My-Work-Samples/blob/main/Finance%20KPI%20Dashboard%20PDF%20YP.pdf) >>**
 This Power BI dashboard analyzes financial performance, highlighting Key Performance metrics such as monthly target achievement, total sales vs. target, and sales trends over time. It reveals that overall sales are below target, with significant variation in employee performance.   
 TOOLS AND SKILLS EMPLOYED >>  
 Tools: Power BI, Microsoft Excel, SQL, DAX (Data Analysis Expressions), Power Query  
