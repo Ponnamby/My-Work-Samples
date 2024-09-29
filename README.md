@@ -36,7 +36,7 @@ Excel: Data modelling and analysis, including projecting turnover trends and eva
 
 🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺
 
-### [4. Accenture North America - Data Analytics and Visualization Project >>](https://github.com/Ponnamby/My-Work-Samples/blob/Files-Upload/Accenture_Forage_Data%20Anlaysis%20%26%20Visualization_User%20Engagement_Social%20Media%20ReportYaminiPonnambalam.pdf)
+### [4. Accenture North America - Data Analytics and Visualization Project >>](https://github.com/Ponnamby/My-Work-Samples/blob/main/Accenture_Forage_Data%20Analysis%20%26%20Visualization_User%20Engagement_Social%20Media%20Report_YaminiPonnambalam.pdf)
 In this project, I leveraged Excel for data cleaning and modelling to prepare a comprehensive dataset, which was then visualized using Power BI Pro. The analysis focused on identifying key trends in content categories, highlighting the top 5 categories by popularity, and understanding user engagement patterns over time. The final deliverables included a series of insightful visualizations that provided actionable insights into content performance and user behaviour on the Social Buzz platform.  
 TOOLS AND SKILLS EMPLOYED >>  
 Tools: Microsoft Excel, VLOOKUP in Excel, Power BI Pro  
