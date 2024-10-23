@@ -41,6 +41,7 @@ In this project, I leveraged SQL Server for data cleaning and modelling to prepa
 TOOLS AND SKILLS EMPLOYED >> 
 Tools: SQL Server, Power BI, PowerPoint  
 Skills: Data Cleaning, Data Modeling, Data Visualization, Analytical Thinking, Storytelling with Data
+![]<iframe title="ACCENTUREFORAGE" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=229615fb-3125-4150-be1a-bdfa93d1c457&autoAuth=true&ctid=12f933b3-3d61-4b19-9a4d-689021de8cc9" frameborder="0" allowFullScreen="true"></iframe>
 
 🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺
 ### 5. Predictive Modelling and Decision Making - Capstone Project >>
