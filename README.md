@@ -37,11 +37,11 @@ Excel: Data modelling and analysis, including projecting turnover trends and eva
 🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺
 
 ### [4. Accenture North America - Data Analytics and Visualization Project >>](https://github.com/Ponnamby/My-Work-Samples/blob/main/Accenture_Forage_Data%20Analysis%20%26%20Visualization_User%20Engagement_Social%20Media%20Report_YaminiPonnambalam.pdf)
-In this project, I leveraged SQL Server for data cleaning and modelling to prepare a comprehensive dataset, which was then visualized using Power BI. The analysis focused on identifying key trends in content categories, highlighting the top 5 categories by popularity, and understanding user engagement patterns. Final deliverables included a series of visualizations and actionable insights that clearly understood content performance and user behaviour on the Social Buzz platform.  
+In this project, I leveraged SQL Server for data cleaning and modelling to prepare a comprehensive dataset, visualized using Power BI. The analysis focused on identifying key trends in content categories, highlighting the top 5 categories by popularity, and understanding user engagement patterns. Final deliverables included a series of visualizations and actionable insights that clearly understood content performance and user behaviour on the Social Buzz platform.  
 TOOLS AND SKILLS EMPLOYED >> 
 Tools: SQL Server, Power BI, PowerPoint  
-Skills: Data Cleaning, Data Modeling, Data Visualization, Analytical Thinking, Storytelling with Data
-![](<iframe title="ACCENTUREFORAGE" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=229615fb-3125-4150-be1a-bdfa93d1c457&autoAuth=true&ctid=12f933b3-3d61-4b19-9a4d-689021de8cc9" frameborder="0" allowFullScreen="true"></iframe>)
+Skills: Data Cleaning, Data Modeling, Data Visualization, Analytical Thinking, Storytelling with Data!
+[DashBoard WebView](https://app.powerbi.com/reportEmbed?reportId=229615fb-3125-4150-be1a-bdfa93d1c457&autoAuth=true&ctid=12f933b3-3d61-4b19-9a4d-689021de8cc9)
 
 🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺
 ### 5. Predictive Modelling and Decision Making - Capstone Project >>
