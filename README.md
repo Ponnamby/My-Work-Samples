@@ -1,53 +1,194 @@
-## My-Work-Samples
-Microsoft Power BI | Dashboards | SQL | ETL | Python | Microsoft Azure | Excel VBA Macros | Alteryx | Data Modeling | Data Analysis | Visualization | Deriving Insights | Strategic Solutions | Forecasting | Process Optimization | Automation | Data Modeling | Microsoft Suite | Stakeholder Communication | Effective KPI metrics | Hypothesis Testing | Regression Techniques
+# My Work Samples
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-## **<< SUMMARY OF PROJECTS >>**
-⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕⁕
+**Power BI | SQL | Python | Azure | ETL | Data Modeling | Forecasting | Automation | KPI Reporting**
 
-### [1. Finance & Sales KPI Dashboard](https://github.com/Ponnamby/My-Work-Samples/blob/main/Finance%20KPI%20Dashboard%20PDF%20YP.pdf) >> `click to navigate to the dashboards`
-This Power BI dashboard analyzes financial performance, highlighting Key Performance metrics such as monthly target achievement, total sales vs. target, and sales trends over time. It reveals that overall sales are below target, with significant variation in employee performance.   
-TOOLS AND SKILLS EMPLOYED >>  
-Tools: Power BI, Microsoft Excel, SQL, DAX (Data Analysis Expressions), Power Query  
-Skills: Data Analysis, Data Visualization, KPI (Key Performance Indicator) Tracking, Problem-Solving, Communication, Attention to Detail, Forecasting and Trend Analysis
+---
 
-🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺
-### [2. Goldman Sachs - Excel Skills for Business Job Simulation Project](https://github.com/Ponnamby/My-Work-Samples/blob/main/Forecast%20Analysis%20and%20Prediction_Goldman%20Sachs%20Forage_YP_organized.pdf) >> 
-This project involves several key tasks to help the cupcake shop forecast its business plan over the next five years: 
-※ Forecasting Operating Assumptions: Developed assumptions within an Excel template, covering Revenue, Costs, Cash Flow, and other areas, based on client-provided information.  
-※ Translating Assumptions to P&L: Created a forecast profit and loss (P&L) statement, detailing revenue, direct costs, gross profit, operating expenses, and other financial metrics.   
-※ Forecasting Cash Flows: Used the cash flow assumptions and P&L data to forecast cash flows, ensuring the business can execute its 5-year plan, pay down debt, and maintain a positive cash balance.  
-※ Creating Outputs in Excel: Summarized the forecast data into charts and visual outputs in Excel, ready for client review.  
-TOOLS AND SKILLS EMPLOYED >>  
-Tools: Microsoft Excel, Excel Formulas and Functions, Excel Charts and Graphs, VBA (Visual Basic for Applications) Macros  
-Skills: Financial Analysis, Forecasting, Excel Proficiency, P&L Management, Cash Flow Analysis, Attention to Detail, Data Visualization, Effective Communication
+## 📌 Summary of Projects
 
-🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### [3. Centers for Medicare and Medicaid Services (CMS) Data Report & Visualization](https://github.com/Ponnamby/My-Work-Samples/blob/main/CMS%20HealthCare%20Data%20Project%20By%20YaminiPonnambalam.pdf) >>
+## 1️⃣ Finance & Sales KPI Dashboard
 
-I have completed the CMS Data Report, including strategic recommendations for HealthCare Contractors. The report identifies understaffed centers, assesses contractor vs. full-time employee ratios, analyzes staff turnover trends, and forecasts future staffing needs to improve market penetration.
+<a href="https://github.com/Ponnamby/My-Work-Samples/blob/main/Finance%20KPI%20Dashboard%20PDF%20YP.pdf">
+ <img alt="image" src="https://github.com/user-attachments/assets/c3b6aa85-d2c0-4725-ab6c-927f6f858f7e" width="40%"/>
+ <img  alt="image" src="https://github.com/user-attachments/assets/78df3a91-6074-438b-b5d8-fa1ecfc88716" width="40%"/>
 
-TOOLS AND SKILLS EMPLOYED >>  
-Data Analysis: Analysis of CMS datasets to extract key insights, including staff turnover and staffing inefficiencies.
-SQL: Queries were written to answer data-related questions on sales, customer behaviour, and product performance.
-Power BI: Used for creating dashboards and visualizing staffing and turnover data (the report includes visuals in an attached PDF).
-Excel: Data modelling and analysis, including projecting turnover trends and evaluating staffing needs.
 
-🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺
+</a>
 
-### [4. Accenture North America - Data Analytics and Visualization Project >>](https://github.com/Ponnamby/My-Work-Samples/blob/main/Accenture_Forage_Data%20Analysis%20%26%20Visualization_User%20Engagement_Social%20Media%20Report_YaminiPonnambalam.pdf)
-In this project, I leveraged SQL Server for data cleaning and modelling to prepare a comprehensive dataset, visualized using Power BI. The analysis focused on identifying key trends in content categories, highlighting the top 5 categories by popularity, and understanding user engagement patterns. Final deliverables included a series of visualizations and actionable insights that clearly understood content performance and user behaviour on the Social Buzz platform.  
-TOOLS AND SKILLS EMPLOYED >> 
-Tools: SQL Server, Power BI, PowerPoint  
-Skills: Data Cleaning, Data Modeling, Data Visualization, Analytical Thinking, Storytelling with Data!
-[DashBoard WebView](https://app.powerbi.com/reportEmbed?reportId=229615fb-3125-4150-be1a-bdfa93d1c457&autoAuth=true&ctid=12f933b3-3d61-4b19-9a4d-689021de8cc9)
+📊 Analyzed financial performance, KPI tracking, and sales trends using Power BI.
 
-🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺🔺🔺🔺🔻🔻🔻🔻🔺
-### 5. Predictive Modelling and Decision Making - Capstone Project >>
- [University of Windsor, ON, Canada ]  
-※	Led a predictive modelling and decision-making project using Python for data exploration, transformation, pattern recognition and forecasting with Jupyter Notebook and Google Co-Lab.  
-※	Implemented regression techniques and machine learning algorithms using Pandas, NumPy, Scikit-Learn, and Matplotlib.  
-TOOLS AND SKILLS EMPLOYED >>   
-Tools: Python, Jupyter Notebook, Google Co-Lab, Pandas, NumPy, Scikit-Learn, Matplotlib  
-Skills: Predictive Modeling, Data Exploration and Transformation, Pattern Recognition, Forecasting, Regression Techniques, Machine Learning Algorithms, Automation and Process Optimization 
+### Business Context
+Sales performance was monitored through fragmented reports, limiting visibility into KPIs and target achievement.
+
+### Objective
+Design a centralized dashboard to monitor business performance, compare actuals against targets, and identify sales trends.
+
+### Key Contributions
+Designed an interactive KPI dashboard in Power BI
+Implemented DAX measures and Power Query transformations
+Developed drill-through reports for performance analysis
+
+### Technologies
+Power BI • DAX • Power Query • SQL • Excel
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 2️⃣ Goldman Sachs - Excel Forecasting Project
+
+<table style="width:auto; border-collapse:collapse;">
+
+<tr>
+
+<!-- LEFT COLUMN: Image 1 + 2 -->
+<td valign="top" style="padding-right:12px;">
+
+<a href=https://github.com/Ponnamby/My-Work-Samples/blob/main/Forecast%20Analysis%20and%20Prediction_Goldman%20Sachs%20Forage_YP_organized.pdf>
+  <img src="https://github.com/user-attachments/assets/7753aed6-6e00-4930-9f03-79acc51d8062"
+  width="150" />
+</a>
+
+
+<a href=https://github.com/Ponnamby/My-Work-Samples/blob/main/Forecast%20Analysis%20and%20Prediction_Goldman%20Sachs%20Forage_YP_organized.pdf>
+  <img src="https://github.com/user-attachments/assets/1ead1f29-f36e-4e17-b07f-587eddd062ee"
+  width="200" />
+</a>
+
+
+
+<!-- RIGHT COLUMN: Image 3 + 4 -->
+
+
+<a href=https://github.com/Ponnamby/My-Work-Samples/blob/main/Forecast%20Analysis%20and%20Prediction_Goldman%20Sachs%20Forage_YP_organized.pdf>
+  <img src="https://github.com/user-attachments/assets/6eab0c3c-a8e4-4860-aea6-1653155d13bb"
+  width="250" />
+</a>
+
+
+<a href=https://github.com/Ponnamby/My-Work-Samples/blob/main/Forecast%20Analysis%20and%20Prediction_Goldman%20Sachs%20Forage_YP_organized.pdf>
+  <img src="https://github.com/user-attachments/assets/3aa22046-390b-4b04-8d1b-9bef38090e34"
+  width="600" />
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+📊 Built a 5-year financial forecasting model for a business case study.
+
+### Business Context
+Develop a financial planning model to evaluate the long-term viability of a growing business.
+
+### Objective
+Translate operational assumptions into integrated revenue, P&L, and cash flow forecasts over a five-year horizon.
+
+### Key Contributions
+Built forecasting models and financial assumptions
+Developed integrated P&L and cash flow statements
+Produced executive-ready financial summaries and visualizations
+
+### Technologies
+Excel • Financial Modeling • VBA • Advanced Excel
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 3️⃣ CMS Healthcare Data Report
+<table>
+
+<tr>
+
+<!-- LEFT: Link 1 + Link 2 stacked -->
+<td valign="top">
+
+<a href="https://github.com/Ponnamby/My-Work-Samples/blob/main/CMS%20HealthCare%20Data%20Project%20By%20YaminiPonnambalam.pdf">
+  <img  alt="image" src="https://github.com/user-attachments/assets/cda6098e-281c-42ce-ab7b-d2f7491769ab" width="150" />
+
+</a>
+
+<br>
+
+<a href="https://github.com/Ponnamby/My-Work-Samples/blob/main/CMS%20HealthCare%20Data%20Project%20By%20YaminiPonnambalam.pdf">
+  <img alt="image" src="https://github.com/user-attachments/assets/2e7f0a9c-f0f7-432d-85ec-d0d28cd366d6"  width="150"/>
+
+</a>
+
+</td>
+
+<!-- RIGHT: Link 3 -->
+<td valign="top">
+
+<a href="https://github.com/Ponnamby/My-Work-Samples/blob/main/CMS%20HealthCare%20Data%20Project%20By%20YaminiPonnambalam.pdf">
+  <img  alt="image" src="https://github.com/user-attachments/assets/da0e5d46-6d9e-4348-9589-b7b68a9d7b00"  width="300" />
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+📊 Analyzed healthcare staffing inefficiencies and turnover trends.
+
+### Business Context
+Healthcare providers required better visibility into workforce distribution, staffing shortages, and employee turnover.
+
+### Objective
+Analyze workforce data to identify operational gaps and support strategic staffing decisions.
+
+### Key Contributions
+Assessed staffing levels across healthcare facilities
+Analyzed contractor versus full-time workforce composition
+Identified turnover trends and workforce planning opportunities
+
+### Technologies
+SQL • Power BI • Excel
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 4️⃣ Accenture Data Analytics Project
+
+<a href="https://app.powerbi.com/reportEmbed?reportId=229615fb-3125-4150-be1a-bdfa93d1c457&autoAuth=true&ctid=12f933b3-3d61-4b19-9a4d-689021de8cc9">
+  <img  alt="image" src="https://github.com/user-attachments/assets/bdad55b4-f628-48e4-b234-09d5bf6f1957" width="40%" />
+  <img alt="image" src="https://github.com/user-attachments/assets/d72ee87d-9b99-4939-9920-5c47765bacfb" width="40%"/>
+
+</a>
+
+📊 Cleaned, modeled, and visualized user engagement data using SQL + Power BI.
+
+### Business Context
+Understanding user engagement was essential for improving digital content strategy.
+
+### Objective
+Transform raw engagement data into meaningful insights through data modeling and interactive visualizations.
+
+### Key Contributions
+Cleaned and modeled large datasets using SQL Server
+Built Power BI dashboards to analyze engagement trends
+Identified high-performing content categories and user behaviour patterns
+
+### Technologies
+SQL Server • Power BI • PowerPoint
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 5️⃣ Capstone: Predictive Modeling Project
+
+📊 Built predictive models using Python for forecasting and regression analysis.
+
+### Business Context
+Organizations increasingly rely on predictive analytics to support proactive decision-making.
+
+### Objective
+Apply statistical and machine learning techniques to identify patterns and forecast future outcomes.
+
+### Key Contributions
+Prepared and transformed analytical datasets
+Developed regression and predictive models
+Evaluated model performance and visualized results
+
+### Technologies
+Python • Pandas • NumPy • Scikit-learn • Matplotlib
