@@ -18,7 +18,7 @@
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-<a id="#1-finance--sales-kpi-dashboard"></a>
+<a id="finance-dashboard"></a>
 ## 1️⃣ Finance & Sales KPI Dashboard
 
 <a href="https://github.com/Ponnamby/My-Work-Samples/blob/main/Finance%20KPI%20Dashboard%20PDF%20YP.pdf">
@@ -45,7 +45,7 @@ Developed drill-through reports for performance analysis
 Power BI • DAX • Power Query • SQL • Excel
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-<a id="#2-goldman-sachs---excel-forecasting-project"></a>
+<a id="goldman-sachs-forecast"></a>
 ## 2️⃣ Goldman Sachs - Excel Forecasting Project
 
 <table style="width:auto; border-collapse:collapse;">
@@ -105,7 +105,7 @@ Produced executive-ready financial summaries and visualizations
 Excel • Financial Modeling • VBA • Advanced Excel
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-<a id="#3-cms-healthcare-data-report"></a>
+<a id="cms-healthcare"></a>
 ## 3️⃣ CMS Healthcare Data Report
 <table>
 
@@ -160,6 +160,7 @@ SQL • Power BI • Excel
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+<a id="accenture-analytics"></a>
 ## 4️⃣ Accenture Data Analytics Project
 
 <a href="https://app.powerbi.com/reportEmbed?reportId=229615fb-3125-4150-be1a-bdfa93d1c457&autoAuth=true&ctid=12f933b3-3d61-4b19-9a4d-689021de8cc9">
@@ -186,6 +187,7 @@ SQL Server • Power BI • PowerPoint
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+<a id="capstone-model"></a>
 ## 5️⃣ Capstone: Predictive Modeling Project
 
 📊 Built predictive models using Python for forecasting and regression analysis.
