@@ -9,16 +9,16 @@
 
 | #  | Project                                   | Jump To                                               |
 | -- | ----------------------------------------- | ----------------------------------------------------- |
-| 1 | 📊[Finance & Sales KPI Dashboard](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#1%EF%B8%8F⃣-finance--sales-kpi-dashboard)             | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#1%EF%B8%8F⃣-finance--sales-kpi-dashboard) |
-| 2 | 📈[Goldman Sachs – Excel Forecasting Project](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#2%EF%B8%8F⃣-goldman-sachs---excel-forecasting-project) | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#2%EF%B8%8F⃣-goldman-sachs---excel-forecasting-project) |
-| 3 | 🏥[CMS Healthcare Data Report ](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#3%EF%B8%8F⃣-cms-healthcare-data-report)               | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#3%EF%B8%8F⃣-cms-healthcare-data-report)               |
-| 4 | 📱[Accenture Data Analytics Project](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#4%EF%B8%8F⃣-accenture-data-analytics-project)          | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#4%EF%B8%8F⃣-accenture-data-analytics-project)         |
-| 5 | 🤖[Capstone: Predictive Modeling Project](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#4%EF%B8%8F⃣-accenture-data-analytics-project)     | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#4%EF%B8%8F⃣-accenture-data-analytics-project)     |
+| 1 | 📊[Finance & Sales KPI Dashboard](#1-finance--sales-kpi-dashboard)             | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#1%EF%B8%8F⃣-finance--sales-kpi-dashboard) |
+| 2 | 📈[Goldman Sachs – Excel Forecasting Project](#2-goldman-sachs---excel-forecasting-project) | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#2%EF%B8%8F⃣-goldman-sachs---excel-forecasting-project) |
+| 3 | 🏥[CMS Healthcare Data Report](#3-cms-healthcare-data-report)           | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#3%EF%B8%8F⃣-cms-healthcare-data-report)               |
+| 4 | 📱[Accenture Data Analytics Project](#4-accenture-data-analytics-project)         | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#4%EF%B8%8F⃣-accenture-data-analytics-project)         |
+| 5 | 🤖[Capstone: Predictive Modeling Project](#5-capstone-predictive-modeling-project)     | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#4%EF%B8%8F⃣-accenture-data-analytics-project)     |
 
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+<a id="#1-finance--sales-kpi-dashboard"></a>
 ## 1️⃣ Finance & Sales KPI Dashboard
 
 <a href="https://github.com/Ponnamby/My-Work-Samples/blob/main/Finance%20KPI%20Dashboard%20PDF%20YP.pdf">
@@ -45,7 +45,7 @@ Developed drill-through reports for performance analysis
 Power BI • DAX • Power Query • SQL • Excel
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+<a id="#2-goldman-sachs---excel-forecasting-project"></a>
 ## 2️⃣ Goldman Sachs - Excel Forecasting Project
 
 <table style="width:auto; border-collapse:collapse;">
@@ -105,7 +105,7 @@ Produced executive-ready financial summaries and visualizations
 Excel • Financial Modeling • VBA • Advanced Excel
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+<a id="#3-cms-healthcare-data-report"></a>
 ## 3️⃣ CMS Healthcare Data Report
 <table>
 
