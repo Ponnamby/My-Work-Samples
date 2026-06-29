@@ -11,9 +11,9 @@
 | -- | ----------------------------------------- | ----------------------------------------------------- |
 | 1 | 📊[Finance & Sales KPI Dashboard](#finance-dashboard)            | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#1%EF%B8%8F⃣-finance--sales-kpi-dashboard) |
 | 2 | 📈[Goldman Sachs Forecasting Project](#goldman-sachs-forecast) | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#2%EF%B8%8F⃣-goldman-sachs---excel-forecasting-project) |
-| 3 | 🏥[CMS Healthcare Data Report](#3-cms-healthcare-data-report)           | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#3%EF%B8%8F⃣-cms-healthcare-data-report)               |
-| 4 | 📱[Accenture Data Analytics Project](#4-accenture-data-analytics-project)         | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#4%EF%B8%8F⃣-accenture-data-analytics-project)         |
-| 5 | 🤖[Capstone: Predictive Modeling Project](#5-capstone-predictive-modeling-project)     | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#4%EF%B8%8F⃣-accenture-data-analytics-project)     |
+| 3 | 🏥[CMS Healthcare Data Report](#cms-healthcare)          | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#3%EF%B8%8F⃣-cms-healthcare-data-report)               |
+| 4 | 📱[Accenture Data Analytics Project](#accenture-analytics)        | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#4%EF%B8%8F⃣-accenture-data-analytics-project)         |
+| 5 | 🤖[Capstone Predictive Modeling](#capstone-model)    | [Go →](https://github.com/Ponnamby/My-Work-Samples/edit/main/README.md#4%EF%B8%8F⃣-accenture-data-analytics-project)     |
 
 
 
